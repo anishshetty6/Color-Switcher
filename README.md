@@ -1,3 +1,3 @@
 # Color-Switcher
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/anishshetty6/Color-Switcher)
+[open link](https://js-fb7qsl.stackblitz.io)
